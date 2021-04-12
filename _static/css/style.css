@@ -1,0 +1,19 @@
+h1,h5, h6 {
+            color: red;
+            border: 1px solid green;
+            }
+        ol {
+            color: orange;
+            }
+        .Welcome {
+            color: green;
+            }
+        table {
+            border: 1px dashed black;
+            border-collapse: collapse;
+            }
+        td, th {
+            border: 1px dashed black;
+            padding: 5px;
+            text-align: center;
+            }
